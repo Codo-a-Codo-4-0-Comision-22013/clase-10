@@ -1,3 +1,11 @@
+# Clase 10 
+
+Crear componentes de React como los que hicimos en la clase 4
+* Boton
+* Video
+* Sonigo
+* Lista
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
