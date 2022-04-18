@@ -3,7 +3,7 @@
 Crear componentes de React como los que hicimos en la clase 4
 * Boton
 * Video
-* Sonigo
+* Sonido
 * Lista
 
 # Getting Started with Create React App
