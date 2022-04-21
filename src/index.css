@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+li {
+  color: #f00;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+#root {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 140px 20px;
+}
+
+.active {
+  background-color: #f00;
+}
+
+#root > button > h1 {
+  color: #f00;
+}
